@@ -1,5 +1,4 @@
-# softennproject
-2018-2019 Software Engineering Project\n
+# 2018-2019 Software Engineering Project
 Mustafa Görkem UYSAL
 Oğuz BARDAKÇI
 Furkan ÖZEMİR
