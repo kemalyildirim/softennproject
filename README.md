@@ -7,3 +7,4 @@ Kemal YILDIRIM
 Fleet Car Rental System
 
 Spring framework, Hibernate, Java with Maven
+Front end with Vue.js
